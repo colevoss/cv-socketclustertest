@@ -1,4 +1,2 @@
 SocketCluster Sample App
-======
-
-This is a sample SocketCluster app.
+ne.js presentation on socketcluster and node
